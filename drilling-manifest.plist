@@ -20,7 +20,7 @@
 
                         <!-- required.  the URL of the file to download. -->
                         <key>url</key>
-                        <string>https://raw.githubusercontent.com/justintemplar/RawFiles/d13d54eaa90f0a615ee84e2c79ddd380e7411bfd/Deswik.Drilling.MAUI.ipa</string>
+                        <string>https://raw.githubusercontent.com/justintemplar/RawFiles/9a4d1b7c509e5fbb77bd67c5256fc05aea9c9c39/Deswik.Operator.MAUI.ipa</string>
                     </dict>
 
                     <!-- display-image: the icon to display during download. -->
@@ -53,7 +53,7 @@
 
                     <!-- required -->
                     <key>bundle-identifier</key>
-                    <string>com.deswik.drillingapp.maui</string>
+                    <string>com.deswik.operatorapp.maui</string>
 
                     <!-- optional (software only) -->
                     <key>bundle-version</key>
